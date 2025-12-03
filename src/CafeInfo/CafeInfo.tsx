@@ -1,4 +1,3 @@
-import React from "react";
 import css from "../styles/CafeInfo.module.css";
 
 const CafeInfo = () => {
